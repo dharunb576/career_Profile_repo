@@ -1,0 +1,8 @@
+NestJS  •  Node.js  •  TypeScript
+Database • Postgres • SQL
+PostgreSQL  •  TypeORM
+REST API Design  •  API Integration
+JWT Authentication  • OAuth 2.0 • RBAC
+Git / GitHub / GitLab  •  Postman
+Production Debugging •  Backend Troubleshooting
+Workflow Automation • Third-Party API Integration
