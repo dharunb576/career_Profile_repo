@@ -486,6 +486,8 @@ The folder name `Certificates/Internship (Smackcoders)/` contradicts the certifi
 | 1st place - ARCOVA hackathon | ARTIWHIZ'26 International Student Symposium on Humanizing Technology; AI for Sustainable Smart Cities | Skylark Student Association, Department of AI & Data Science, E.G.S. Pillay Engineering College, Nagapattinam | 10 October 2026 | 1st place | `Certificates/ARCOVA Hackathon_1.pdf` page 1; `EGS hackathon.png` |
 | 2nd place - Paper Presentation (HackVerse) | AURA-26 International Level Technical Symposium | FAITH Student Association, Department of Information Technology, E.G.S. Pillay Engineering College, Nagapattinam | 10 October 2026 | 2nd place (certificate appears to show "II"; `achievements.md` states 2nd) | `Certificates/ARCOVA Hackathon_1.pdf` page 2; `AURA'26 Hackverse.jpg` |
 | HACKQUEST 2K25 - Capture The Flag | HACKQUEST 2K25, Jamal Mohamed College (Autonomous), Trichy, in association with Cyberheals Infotech Pvt. Ltd. | Jamal Mohamed College / Cyberheals | 13 February 2025 | Rank 173 of 556 | `Certificates/JMC Cyber Heals.pdf` |
+## Achievement	Event	Organizer	Date	Result	Evidence
+AI Prompt Competition	Science Tech Fest 2025 (TechSynergy)	School of Engineering and Technology, Dhanalakshmi Srinivasan University, Tiruchirappalli	10–11 October 2025	First Prize	Certificates/Science_Tech_Fest_2025_AI_Prompt_First_Prize.jpg
 
 ### 8.2 Claimed achievements without certificate evidence
 
@@ -916,3 +918,15 @@ Node.js, NestJS, TypeScript, JavaScript, REST API, API integration, OAuth 2.0, J
 **Biggest credibility gaps:** employer/scope conflict, no source code or deployment links, no test/cloud/CI-CD evidence, unverified SIH/AI-prompt/patent/club claims, AgriVision contribution ambiguity, and ARCOVA stack missing.
 
 **Overall positioning:** A promising early-career backend candidate with a coherent Node.js/NestJS/PostgreSQL project portfolio, award recognition, and unusual breadth in data engineering and AI integration. The profile becomes materially stronger once the internship record is reconciled and at least two backend projects are published with code, tests, and a live or documented demo.
+
+### Recent Academic Certification
+
+**NPTEL ELITE – Introduction to Internet of Things | IIT Kharagpur | 2026**
+
+Successfully completed a 12-week NPTEL course with an overall score of **86%**, demonstrating foundational knowledge of Internet of Things technology.
+
+- Certification: ELITE
+- Assignment Score: 23.81/25
+- Proctored Examination: 61.5/75
+- Duration: July – October 2026
+- Recommended Credits: 4

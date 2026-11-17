@@ -111,3 +111,11 @@ Developed and modified a Python-based smart agriculture application featuring Ge
 **Technologies:** Python, Streamlit, GeoJSON, Folium, Groq API, LLaMA 3.3 70B Versatile, Agromonitoring API.
 
 **Development Goal:** Extend predefined farm zoning into data-driven crop-suitability recommendations.
+
+- First Prize — AI Prompt Competition, Science Tech Fest 2025
+  (TechSynergy), Dhanalakshmi Srinivasan University, October 2025.
+
+  ### Certifications
+
+- **NPTEL – Introduction to Internet of Things (IIT Kharagpur)** | ELITE | 86% | 2026
+  - 12-week course; scored 23.81/25 in assignments and 61.5/75 in the proctored examination.

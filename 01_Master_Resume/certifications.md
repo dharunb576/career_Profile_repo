@@ -78,3 +78,29 @@ Expanded practical understanding of the Model Context Protocol (MCP), including 
 - **Learning Outcome:** Developed foundational knowledge of Claude and its capabilities, effective prompting techniques, responsible AI usage, and AI-assisted workflows.
 
 **Certificate:** `Certificates/claude-101-anthropic.png`
+
+### NPTEL – Introduction to Internet of Things
+
+| Field | Details |
+|---|---|
+| Certification Provider | NPTEL (National Programme on Technology Enhanced Learning) |
+| Institution | Indian Institute of Technology (IIT) Kharagpur |
+| Course Name | Introduction to Internet of Things |
+| Certification Type | ELITE |
+| Overall Score | 86% |
+| Online Assignment Score | 23.81 / 25 |
+| Proctored Examination Score | 61.5 / 75 |
+| Course Duration | 12 Weeks |
+| Course Period | July – October 2026 |
+| Recommended Credits | 4 |
+| Certification Status | Successfully Completed |
+| Certificate Type | NPTEL Online Certification |
+
+**Course Overview:**
+
+Successfully completed a 12-week online course covering foundational concepts of the Internet of Things (IoT). The certification validates successful completion of the course requirements and assessment conducted by NPTEL, IIT Kharagpur.
+
+**Key Learning Area:**
+- Internet of Things (IoT) – Foundational Knowledge
+
+**Certificate File:** `Certificates/NPTEL_Introduction_to_Internet_of_Things_IIT_Kharagpur_2026.pdf`

@@ -226,6 +226,7 @@ security events to support threat detection, log analysis, and SOC-style inciden
 | **First Prize — AI Prompt Competition** | Inter-College Technical Symposium | — | — | 🥇 First Prize |
 | **HACKQUEST 2K25 — Rank 173 / 556** | Capture The Flag (CTF) Competition | Jamal Mohamed College (Autonomous), Trichy & Cyberheals Infotech Pvt. Ltd. | 2025 | Rank 173 of 556 |
 | **Patent Application — Automatic Bike Locking System** | Designed to prevent vehicle theft (conceptualized & applied) | — | — | Patent Applied |
+- **First Prize — AI Prompt Competition:** Secured first prize in the AI Prompt technical event at Science Tech Fest 2025 (TechSynergy), organized by the School of Engineering and Technology, Dhanalakshmi Srinivasan University, Tiruchirappalli, on 10–11 October 2025. **Evidence:** `Certificates/Science_Tech_Fest_2025_AI_Prompt_First_Prize.jpg`.
 
 ---
 
@@ -396,3 +397,30 @@ authentication, logging, and security-focused application development.
 - Member of the official cybersecurity club at K. Ramakrishnan College of Engineering.
 - Supported coordination of entrance tests and interview sessions for club recruitment.
 - Participated in cybersecurity-related club activities and technical community initiatives.
+
+## Academic Certifications & Professional Learning
+
+### NPTEL – Introduction to Internet of Things (IIT Kharagpur)
+
+**Achievement:** Successfully earned NPTEL ELITE certification.
+
+**Performance:**
+- Overall Score: 86%
+- Online Assignments: 23.81/25
+- Proctored Examination: 61.5/75
+
+**Certification Details:**
+- Provider: NPTEL
+- Institution: IIT Kharagpur
+- Course Duration: 12 Weeks
+- Course Period: July – October 2026
+- Recommended Credits: 4
+- Status: Successfully Completed
+
+**Learning Outcome:**
+
+Developed foundational knowledge of Internet of Things technology through a structured 12-week online learning programme and successfully completed the associated assessments.
+
+**Supporting Evidence:**
+
+`Certificates/NPTEL_Introduction_to_Internet_of_Things_IIT_Kharagpur_2026.pdf`
